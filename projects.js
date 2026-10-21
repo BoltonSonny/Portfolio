@@ -32,7 +32,7 @@ window.projects = [
 
                 <p>
                     I worked on the video production, editing and overall
-                    digital media experience.
+                    digital media experience as a student digital Champion.
                 </p>
             `,
 
