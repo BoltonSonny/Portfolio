@@ -7,7 +7,7 @@ window.projects = [
         description:
             "360 VR Video for Lichfield College and South Staffordshire County Council.",
 
-        image: "images/projects/horror-game.jpg",
+        image: "images/360-immersive-project.png",
 
         featured: true,
 
