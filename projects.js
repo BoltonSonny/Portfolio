@@ -129,8 +129,8 @@ window.projects = [
             `,
 
             images: [
-                "images/rollout-1.jpg",
-                "images/rollout-2.jpg"
+                "images/rollout-1.png",
+                "images/rollout-2.png"
                 
             ],
 
