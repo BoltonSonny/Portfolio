@@ -93,7 +93,7 @@ window.projects = [
                 "videos/prop-hunt.mp4"
             ]
         }
-    }
+    },
 
     {
         id: "rollout",
