@@ -37,8 +37,8 @@ window.projects = [
             `,
 
             images: [
-                "images/projects/360-project-1.jpg",
-                "images/projects/360-project-2.jpg"
+                "images/projects/360-project-1.png",
+                "images/projects/360-project-2.png"
             ],
 
             videos: [
