@@ -114,29 +114,28 @@ window.projects = [
 
         status: "In Development",
 
-        link: "#",
+        link: "https://store.steampowered.com/app/4294240/ROLLOUT/",
 
         // Project popup content
         details: {
             text: `
                 <p>
-                    This was my final year project created inside Unreal Engine 5.
+                    This is my own personal project that im building inside of unity as a fun little arcady game where you can build tracks and compete against others in leaderboards.
                 </p>
 
                 <p>
-                    The project focused on creating a multiplayer Prop Hunt
-                    experience, including gameplay systems and networking.
+                    This project is focused on building a fun speedrunning game that myself and others can enjoy playing, it also allowed me to learn how to use APIs with pushing and pulling data through it.
                 </p>
             `,
 
             images: [
-                "images/projects/prop-hunt-1.jpg",
-                "images/projects/prop-hunt-2.jpg",
-                "images/projects/prop-hunt-3.jpg"
+                "images/rollout-1.jpg",
+                "images/rollout-2.jpg"
+                
             ],
 
             videos: [
-                "videos/prop-hunt.mp4"
+                "videos/rollout-video.mp4"
             ]
         }
     }
