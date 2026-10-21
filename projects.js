@@ -48,54 +48,6 @@ window.projects = [
     },
 
     {
-        id: "prop-hunt",
-
-        title: "Multiplayer Prop Hunt",
-
-        description:
-            "Final Year Project inside of Unreal Engine 5 during my College Course.",
-
-        image: "images/projects/jarvis.jpg",
-
-        featured: false,
-
-        tags: [
-            "Final Year",
-            "Unreal Engine",
-            "Multiplayer",
-            "Game-Development"
-        ],
-
-        status: "Completed",
-
-        link: "#",
-
-        // Project popup content
-        details: {
-            text: `
-                <p>
-                    This was my final year project created inside Unreal Engine 5.
-                </p>
-
-                <p>
-                    The project focused on creating a multiplayer Prop Hunt
-                    experience, including gameplay systems and networking.
-                </p>
-            `,
-
-            images: [
-                "images/projects/prop-hunt-1.jpg",
-                "images/projects/prop-hunt-2.jpg",
-                "images/projects/prop-hunt-3.jpg"
-            ],
-
-            videos: [
-                "videos/prop-hunt.mp4"
-            ]
-        }
-    },
-
-    {
         id: "rollout",
 
         title: "ROLLOUT",
