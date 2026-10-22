@@ -26,13 +26,15 @@ window.projects = [
         details: {
             text: `
                 <p>
-                    This project involved creating a 360° immersive video
-                    for Lichfield College and South Staffordshire County Council.
+                    As a Student Digital Champion, I contributed to the creation of a 360° immersive video project for Lichfield College and Staffordshire County Council. My role involved supporting the video production process, editing footage and helping develop the overall digital media experience to create an engaging and immersive final product.
                 </p>
 
                 <p>
-                    I worked on the video production, editing and overall
-                    digital media experience as a student digital Champion.
+                    Through this project, I gained practical experience in digital content creation and multimedia production, developing my understanding of how video footage can be edited and presented to deliver an effective visual experience. I also strengthened my technical skills, attention to detail and ability to contribute to a collaborative project, while gaining valuable insight into the planning and delivery of digital media for external organizations.
+                </p>
+
+                <p>
+                    This experience helped me build confidence in applying digital skills to a real-world project, improve my creative problem-solving abilities and develop a stronger understanding of the digital media production process. It also reinforced the importance of communication, teamwork and adapting technical work to meet the aims of a project.
                 </p>
             `,
 
