@@ -61,7 +61,8 @@ window.projects = [
 
         tags: [ 
             "Unity",
-            "Game-Development"
+            "Game-Development",
+            "C++"
         ],
 
         status: "In Development",
@@ -88,6 +89,51 @@ window.projects = [
 
             videos: [
                 "videos/rollout-video.mp4"
+            ]
+        }
+    },
+
+    {
+        id: "minishell",
+
+        title: "MiniShell",
+
+        description:
+            "Simple Remake of Command Prompt that can do the basic tasks like check directory, ssh, cd, add and remove files and folders.",
+
+        image: "images/minishell.png",
+
+        featured: false,
+
+        tags: [ 
+            "C++",
+            "Software-Development"
+        ],
+
+        status: "Completed",
+
+        link: "https://github.com/BoltonSonny/MiniShell",
+
+        // Project popup content
+        details: {
+            text: `
+                <p>
+                    This was a fun little project to improve on my C++ knowledge and create my own terminal that is designed to do actually what i want quicker and look different to the default Terminal.
+                </p>
+
+                <p>
+                    This Project allowed me to further develop my coding Knowledge and also learn how too use window tools like SSH and how to implement them into my own custom terminal.
+                </p>
+            `,
+
+            images: [
+                "images/terminal.png"
+                
+                
+            ],
+
+            videos: [
+                "videos/terminal-video.mp4"
             ]
         }
     }
