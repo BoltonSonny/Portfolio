@@ -75,11 +75,11 @@ window.projects = [
         details: {
             text: `
                 <p>
-                    This is my own personal project that im building inside of unity as a fun little arcady game where you can build tracks and compete against others in leaderboards.
+                    This is my own personal project that im building inside of unity as a fun little arcady game where you can build tracks and compete against others in leaderboards. During this project my Main Challenge was figuring out the physics for the skateboard itself and managing to get it to feel right in the end I settled on faking it with using a ball for the physics of how it moves.
                 </p>
 
                 <p>
-                    This project is focused on building a fun speedrunning game that myself and others can enjoy playing, it also allowed me to learn how to use APIs with pushing and pulling data through it.
+                    The biggest thing I had to learn was how to Intergrate steam API into my project with being able to save player times onto steam cloud and be able to order and pull them into the games UI based on times and what the track ID is. Overall while working on this project ive had to deeply research into documentation for Unity Custom Physics and learn how to use the New Unity Input System as I was use to using the old version of the Inputs.
                 </p>
             `,
 
