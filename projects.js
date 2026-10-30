@@ -120,11 +120,11 @@ window.projects = [
         details: {
             text: `
                 <p>
-                    This was a fun little project to improve on my C++ knowledge and create my own terminal that is designed to do actually what i want quicker and look different to the default Terminal.
+                    For this project I wanted to challenge myself and improve my knowledge on C++ by making a copy of the Windows Terminal but in a way that looks cool to me but also useful with only the tools I really wanted to use for example being able to SSH into another system or by able to move into another folder and be able to add or remove files.
                 </p>
 
                 <p>
-                    This Project allowed me to further develop my coding Knowledge and also learn how too use window tools like SSH and how to implement them into my own custom terminal.
+                    Being able to mess around with built in windows functions and adding them to a working terminal was difficult to learn but after some research into how to implement it and actually implementing it myself, I found it to be actually useful to learn as it allows for further development into difficult tools and ways to improve certain software and tailor it to a users needs.
                 </p>
             `,
 
