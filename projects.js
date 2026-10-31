@@ -138,5 +138,48 @@ window.projects = [
                 "videos/terminal-video.mp4"
             ]
         }
+    },
+
+     {
+        id: "Desktop Info Shell",
+
+        title: "InfoShell",
+
+        description:
+            "Simple program that shows CPU and RAM.",
+
+        image: "images/desktopinfo.png",
+
+        featured: false,
+
+        tags: [ 
+            "C++",
+            "Software-Development"
+        ],
+
+        status: "Completed",
+
+        link: "https://github.com/BoltonSonny/PCInformationShell",
+
+        // Project popup content
+        details: {
+            text: `
+                <p>
+                    For this project I wanted to challenge myself and improve my knowledge on C++ by making a program that shows how much RAM the user has as well as what their CPU in their machine is, I was also able to add so they can see how long the PC has been turned on for.
+                </p>
+
+                <p>
+                    Being able to mess around with this helped me learn more about windows editing inside of C++ being able to grab a persons information and show it to them inside of their own terminal.
+                </p>
+            `,
+
+            images: [
+                "images/desktopinfo.png"
+                
+                
+            ]
+
+            
+        }
     }
 ];
